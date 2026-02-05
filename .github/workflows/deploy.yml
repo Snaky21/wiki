@@ -23,7 +23,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Indiquez le dossier contenant vos fichiers (ex: "dist" ou "." pour la racine)
-          path: 'wiki'
+          path: 'site/'
 
       - name: Déploiement final
         uses: actions/deploy-pages@v4
