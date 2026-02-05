@@ -1,5 +1,4 @@
 ---
-icon: https://lucide.dev/icons/bone
 ---
 
 ### Chihuahua : Un petit chien au grand caractère
